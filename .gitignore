@@ -27,3 +27,6 @@ dist
 packages
 a.out
 *~
+/GPATH
+/GRTAGS
+/GTAGS
